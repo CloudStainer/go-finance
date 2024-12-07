@@ -70,7 +70,7 @@
                                             color: "primary",
                                             size: "large",
                                             target: "_blank",
-                                            href: s.a,
+                                            href: "https://go-app-finance.vercel.app/",
                                             children: "Launch App"
                                         })
                                     })
@@ -872,7 +872,7 @@
                                                 color: "primary",
                                                 variant: "contained",
                                                 target: "_blank",
-                                                href: s.a,
+                                                href: "https://go-app-finance.vercel.app/",
                                                 children: "Launch App"
                                             })
                                         })]
